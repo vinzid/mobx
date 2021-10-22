@@ -1,5 +1,11 @@
 # mobx
 
+## 6.3.6
+
+### Patch Changes
+
+-   [`4afb1ec2`](https://github.com/mobxjs/mobx/commit/4afb1ec24427cf8e1f768d0c6fc49d0f44f4ab8e) [#3154](https://github.com/mobxjs/mobx/pull/3154) Thanks [@urugator](https://github.com/urugator)! - `makeObservable` throws when mixing @decorator syntax with annotations
+
 ## 6.3.5
 
 ### Patch Changes
